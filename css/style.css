@@ -1,0 +1,64 @@
+body{
+	//background-color:#383838;
+	margin:0;
+	padding:0;
+}
+
+#login_panel{
+	width:500px;
+	margin:0 auto;
+}
+
+#my_layout{
+	margin:0 auto;
+}
+
+#my_layout>div{
+	margin:0 auto;
+}
+
+
+
+#chat_log{
+	height:600px;
+	overflow: auto;
+	padding:1px;
+	background-color:#333;
+	color:#fff;
+}
+
+#chat_log>hr{
+	margin:5px;
+}
+
+#score_table{
+	font-size:24px;
+}
+
+#score_log{
+	height:170px;
+	overflow: auto;
+	font-size:18px;
+}
+
+#score_log>hr{
+	margin:5px;
+}
+
+.admin_message{
+	color: #5cb85c;
+}
+
+.glyphicon-star{
+	color:#f0ad4e;
+}
+
+.glyphicon-ok{
+	color: #5cb85c;
+}
+.glyphicon-flag{
+	color:#428bca;
+}
+.glyphicon-exclamation-sign{
+	color:#d9534f;
+}
